@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/birthday-buddy/static/css/main.4221b651.css",
+    "main.js": "/birthday-buddy/static/js/main.85cdd2d0.js",
+    "static/media/person-1_rfzshl5.jpg": "/birthday-buddy/static/media/person-1_rfzshl5.80a56948cd56e63f7ee1.jpg",
+    "static/media/person-3_ipa0mj4.jpg": "/birthday-buddy/static/media/person-3_ipa0mj4.60140db4cbafafd12671.jpg",
+    "static/media/person-2_ipcjws1.jpg": "/birthday-buddy/static/media/person-2_ipcjws1.656e3da7229aed34b790.jpg",
+    "static/media/person-3_rxtqvi2.jpg": "/birthday-buddy/static/media/person-3_rxtqvi2.705a1597f4d04a60635e.jpg",
+    "static/media/person-4_t9nxjt3.jpg": "/birthday-buddy/static/media/person-4_t9nxjt3.05c65e9341283e507e43.jpg",
+    "index.html": "/birthday-buddy/index.html",
+    "main.4221b651.css.map": "/birthday-buddy/static/css/main.4221b651.css.map",
+    "main.85cdd2d0.js.map": "/birthday-buddy/static/js/main.85cdd2d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4221b651.css",
+    "static/js/main.85cdd2d0.js"
+  ]
+}
